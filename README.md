@@ -1,16 +1,33 @@
 ## Hi there 👋
+# Hey, I'm Emmanuel 👋
 
-<!--
-**Emmanuel-devlab/Emmanuel-devlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | AI Explorer | Product Builder
 
-Here are some ideas to get you started:
+I enjoy building useful software, experimenting with AI,
+and turning ambitious ideas into working applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+- Building AI-powered applications
+- Exploring full-stack development
+- Learning software engineering
+- Creating tools that solve real problems
+
+## 🛠️ Technologies
+
+- Python
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- SQL
+
+## 🧪 Projects
+
+More projects coming soon!
+
+## 🤝 Connect
+
+- GitHub: Explore my repositories
+- Portfolio: Coming soon
+
